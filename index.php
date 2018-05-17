@@ -9,7 +9,7 @@
 </head>
 <body>
     <form class="userForm" name="weatherForm" action="index.php" method="get">
-        <h1>Погода</h1>
+        <h2>Погода</h2>
         City:<input type="text" name="city" placeholder="city">
         <input type="submit" name="submit" placeholder="submit">
     </form>
